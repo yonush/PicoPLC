@@ -7,7 +7,7 @@ This repo is the design files and sample code for the diy PLC "picoPLC". It is r
 - Raspberry Pico 2 (RP2350 using ARM cores)
 - Raspberry Pico 2 (RP2350 using RISCV cores)
 
-Other RP2040/RP2350 boards that follow the Raspberry Pico pinout are also support.
+Other RP2040/RP2350 boards that follow the Raspberry Pico pinout are also support.ed
 
 The picoPLC has the follwoing features 
 
@@ -44,5 +44,5 @@ Schematic was created in Kicad. The BoM can be found in **Schematic and PCB** fo
 
 
 **Revison 2**
-![revison_2](Revision1.jpg)
+![revison_2](Revision2.jpg)
 
