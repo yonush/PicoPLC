@@ -1,0 +1,5 @@
+.vscode
+debug*
+/tmp
+*.exe
+ignore
