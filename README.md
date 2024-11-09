@@ -44,5 +44,5 @@ Schematic was created in Kicad. The BoM can be found in **Schematic and PCB** fo
 
 
 **Revison 2**
-![revison_2](Revision2.jpg)
+![revison_2](Revision2.png)
 
