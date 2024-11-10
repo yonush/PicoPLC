@@ -1,4 +1,4 @@
-# The RP2340/RP2350 PLC - picoPLC
+# The RP2040/RP2350 PLC - picoPLC
 
 This repo is the design files and sample code for the diy PLC "picoPLC". It is robust PLC using the Raspberry Pi microcontroller boards as the main controller. Supported boards:
 
@@ -32,7 +32,7 @@ Multicore opertation is not supported in CircuitPython but is avaliable using Mi
 - :white_large_square: Additional sample code
 
 ## Schematic
-Schematic was created in Kicad. The BoM can be found in **Schematic and PCB** folder.
+Schematic was created in Kicad. The BoM can be found in **Schematic and PCB** folder. The image below is only of page 1. Full schematic can be found in the folder.
 
 ![schematic](schematic_rev2.png)
 
