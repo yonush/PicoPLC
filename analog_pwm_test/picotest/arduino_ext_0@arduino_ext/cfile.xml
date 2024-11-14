@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <variables/>
+  <sketch>
+    <xhtml:p><![CDATA[
+
+void sketch_setup()
+{    
+
+  int i = 0;
+}
+
+
+void sketch_loop()
+{
+
+
+  int i = 0;
+}
+
+
+
+]]></xhtml:p>
+  </sketch>
+</CFile>

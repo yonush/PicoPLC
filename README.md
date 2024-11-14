@@ -24,7 +24,7 @@ The picoPLC was originally designed to use the [OpenPLC](https://autonomylogic.c
 
 ### Mutli-core operation
 
-Multi-core operation is not supported in CircuitPython but is available using MicroPython. Multi-core operation can be achieved in OpenPLC by editing the HAL source files and using the Mbed toolchain. More details on Using OpenPLC can be found in [OpenPLC Notes](OpenPLC_notes.md)
+Multi-core operation is not supported in CircuitPython but is available using MicroPython. Multi-core operation can be achieved in OpenPLC by editing the HAL source files and using the Mbed OS toolchain. More details on Using OpenPLC can be found in [OpenPLC Notes](OpenPLC_notes.md)
 
 ### TODO
 - :white_check_mark: Fix PWM range and frequency (rev2)
